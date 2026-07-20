@@ -1,10 +1,10 @@
 ---
 layout: default
 title: ModRef 2022
-redirect_from: "/"
+redirect_from: /ModRef2022.html
 ---
 
-ModRef 2022 is the 21st in a [series of workshops on Constraint Modelling and Reformulation](https://www-users.cs.york.ac.uk/~frisch/ModRef/) organized as part of FLoC 2022, the [Federated Logic Conference](https://www.floc2022.org/).
+ModRef 2022 is the 21st in a [series of workshops on Constraint Modelling and Reformulation](https://archive.modref.org) organized as part of FLoC 2022, the [Federated Logic Conference](https://www.floc2022.org/).
 It will be held on July 31st, preceding CP 2022, the [28th International Conference on Principles and Practice of Constraint Programming](http://cp2022.a4cp.org/).
 
 Recent years have witnessed significant research devoted to modelling and solving problems with constraints. The importance of modelling and model reformulation is widely recognized. There have been developments in systematic and automated ways of improving aspects of modelling and model reformulation. Tools and techniques which provide the ability to target multiple kinds of solvers were also developed.
@@ -25,15 +25,15 @@ The detailed program can also be found on [EasyChair](https://easychair.org/smar
 
 | Time                         | Event                                                                                                |
 |------------------------------|------------------------------------------------------------------------------------------------------|
-| **Session 1**: 9:00 - 10:30  | *Invited Talk*: Constraint modelling and solving: Learning from observing people -- Ruth Hoffmann [(slides)](slides/ModRef2022_ConstraintModellingAndSolver_LearningFromObservingPeople.pdf) |
-|                              | *Paper*: Solving XCSP3 constraint problems using tools from software verification -- Martin Mariusz Lester [(paper)](papers/ModRef2022_SolvingXCSP3ConstraintProblemsUsingToolsFromSoftwareVerification.pdf) [(slides)](slides/ModRef2022_SolvingXCSP3ConstraintProblemsUsingToolsFromFormalVerification.pdf) |
-|                              | *Paper*: Constraint-based Part-of-Speech Tagging -- Neng-Fa Zhou [(paper)](papers/ModRef2022_ConstraintBasedPartOfSpeechTagging.pdf) [(slides)](slides/ModRef2022_ConstraintBasedPartOfSpeechTagging.pdf) |
+| **Session 1**: 9:00 - 10:30  | *Invited Talk*: Constraint modelling and solving: Learning from observing people -- Ruth Hoffmann [(slides)](https://archive.modref.org/files/slides/ModRef2022_ConstraintModellingAndSolver_LearningFromObservingPeople.pdf) |
+|                              | *Paper*: Solving XCSP3 constraint problems using tools from software verification -- Martin Mariusz Lester [(paper)](https://archive.modref.org/files/papers/ModRef2022_SolvingXCSP3ConstraintProblemsUsingToolsFromSoftwareVerification.pdf) [(slides)](https://archive.modref.org/files/slides/ModRef2022_SolvingXCSP3ConstraintProblemsUsingToolsFromFormalVerification.pdf) |
+|                              | *Paper*: Constraint-based Part-of-Speech Tagging -- Neng-Fa Zhou [(paper)](https://archive.modref.org/files/papers/ModRef2022_ConstraintBasedPartOfSpeechTagging.pdf) [(slides)](https://archive.modref.org/files/slides/ModRef2022_ConstraintBasedPartOfSpeechTagging.pdf) |
 | **Break**: 10:30 - 11:00     |                                                                                                      |
-| **Session 2**: 11:00 - 12:30 | *Paper*: A portfolio-based analysis method for competition results -- Nguyen Dang [(paper)](papers/ModRef2022_PortfolioBasedAnalysisMethodForCompetitionResults.pdf) [(slides)](slides/ModRef2022_PortfolioBasedAnalysisMethodForCompetitionResults.pdf) |
-|                              | *Paper*: Efficiently Explaining CSPs with Unsatisfiable Subset Optimization -- Emilio Gamba, Bart Bogaerts and Tias Guns [(paper)](papers/ModRef2022_EfficientExplainingCSPsWithUnsatisfiableSubsetOptimization.pdf) [(slides)](slides/ModRef2022_EfficientExplainingCSPsWithUnsatisfiableSubsetOptimization.pdf) |
-|                              | *Paper*: Automatic Generation of Dominance Breaking Nogoods for Constraint Optimization -- Jimmy H. M. Lee and Allen Z. Zhong [(paper)](papers/ModRef2022_AutomaticGenerationOfDominanceBreakNogoodsForConstraintOptimization.pdf) [(slides)](slides/ModRef2022_AutomaticGenerationOfDominanceBreakingNogoodsForConstraintOptimisation.pdf) |
+| **Session 2**: 11:00 - 12:30 | *Paper*: A portfolio-based analysis method for competition results -- Nguyen Dang [(paper)](https://archive.modref.org/files/papers/ModRef2022_PortfolioBasedAnalysisMethodForCompetitionResults.pdf) [(slides)](https://archive.modref.org/files/slides/ModRef2022_PortfolioBasedAnalysisMethodForCompetitionResults.pdf) |
+|                              | *Paper*: Efficiently Explaining CSPs with Unsatisfiable Subset Optimization -- Emilio Gamba, Bart Bogaerts and Tias Guns [(paper)](https://archive.modref.org/files/papers/ModRef2022_EfficientExplainingCSPsWithUnsatisfiableSubsetOptimization.pdf) [(slides)](https://archive.modref.org/files/slides/ModRef2022_EfficientExplainingCSPsWithUnsatisfiableSubsetOptimization.pdf) |
+|                              | *Paper*: Automatic Generation of Dominance Breaking Nogoods for Constraint Optimization -- Jimmy H. M. Lee and Allen Z. Zhong [(paper)](https://archive.modref.org/files/papers/ModRef2022_AutomaticGenerationOfDominanceBreakNogoodsForConstraintOptimization.pdf) [(slides)](https://archive.modref.org/files/slides/ModRef2022_AutomaticGenerationOfDominanceBreakingNogoodsForConstraintOptimisation.pdf) |
 | **Lunch**: 12:30 - 14:00     |                                                                                                      |
-| **Session 3**: 14:00 - 15:30 | *Invited Talk*: A Constraint-Based Tool for Generating Benchmark Instances -- Nguyen Dang [(slides)](slides/ModRef2022_ConstraintBasedToolForGeneratingBenchmarkInstances.pdf) |
+| **Session 3**: 14:00 - 15:30 | *Invited Talk*: A Constraint-Based Tool for Generating Benchmark Instances -- Nguyen Dang [(slides)](https://archive.modref.org/files/slides/ModRef2022_ConstraintBasedToolForGeneratingBenchmarkInstances.pdf) |
 |                              | **Modelling competition**                                                                            |
 | **Break**: 15:30 - 16:00     |                                                                                                      |
 | **Session 4**: 16:00 - 17:15 | **Modelling competition**                                                                            |
@@ -55,7 +55,7 @@ To our knowledge, this is the first human-centred study addressing how people ap
 We studied three groups with different expertise: non-computer scientists, computer scientists and constraint programmers and analyzed their marks on paper (e.g., arrows), gestures (e.g., pointing), the mappings to problem concepts (e.g., containers, sets) and any strategies and explanations that they provided.
 We will discuss results and future research this study will hopefully inspire.
 
-[(slides)](slides/ModRef2022_ConstraintModellingAndSolver_LearningFromObservingPeople.pdf)
+[(slides)](https://archive.modref.org/files/slides/ModRef2022_ConstraintModellingAndSolver_LearningFromObservingPeople.pdf)
 
 ### **dr. Nguyen Dang** (University of St Andrews, Scotland) - A Constraint-Based Tool for Generating Benchmark Instances
 
@@ -77,7 +77,7 @@ solver developers. Moreover, discriminating instances can reveal parts of the
 instance space where a generally weak solver actually performs well relative
 to others, and therefore could be useful as part of an algorithm portfolio.
 
-[(slides)](slides/ModRef2022_ConstraintBasedToolForGeneratingBenchmarkInstances.pdf)
+[(slides)](https://archive.modref.org/files/slides/ModRef2022_ConstraintBasedToolForGeneratingBenchmarkInstances.pdf)
 
 ## <a name="modcomp"></a> Modelling Competition
 
@@ -140,6 +140,6 @@ All submissions will be reviewed and those that are well-written and make a wort
 ## <a name="pmodrefs"></a> Previous ModRef Workshops
 The ModRef workshop has been running for 21 years and has hosted many interesting presentations.
 
- - In 2021 the workshop page moved to its current home [here](ModRef2021).
- - Past events in this workshop series can be found [here](https://www-users.cs.york.ac.uk/~frisch/ModRef/).
- - A searchable list of previous presentations can be found [here](ModRefHistory) (Note: links to slides, papers and posters are not working).
+ - In 2021 the workshop page moved to its current home [here](https://2021.modref.org).
+ - Past events in this workshop series can be found [here](https://archive.modref.org).
+ - A searchable list of previous presentations can be found [here](https://archive.modref.org/files).
